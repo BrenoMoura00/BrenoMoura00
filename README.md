@@ -7,17 +7,10 @@
 - 👀 Fato curioso sei: editar no Photoshop
 
 
+<div>
+<a href="https://github.com/BrenoMoura00">
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrenoMoura00&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=BrenoMoura00&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
 
-<div  align="center" style="margin-bottom:100px">
-<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=BrenoMoura00&theme=radical&mode=weekly" />
-
- </div>
- 
- &nbsp;
- &nbsp;
-
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
-
-  
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=footer"/>
-
+![Snake animation](https://github.com/BrenoMoura00/BrenoMoura00/blob/output/github-contribution-grid-snake.svg)
