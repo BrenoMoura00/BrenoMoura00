@@ -9,7 +9,7 @@
 - 🌱 I am a back-end programming student
 - 📫 Contact me at email: brenoluisadv@gmail.com
 - ✉️ Linkedin: https://www.linkedin.com/in/breno-moura-a3b3502a8/
-- 👀 Fun fact I know: editing in Photoshop
+- 👀 Fun fact about me: I know how to edit in Photoshop
 
 ## Status:
 
