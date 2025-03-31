@@ -13,7 +13,7 @@
 
 ## Status:
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BrenoMoura00&theme=dark&show_icons=true&theme=shadow_blue)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BrenoMoura00&theme=dark&show_icons=true&theme=shadow_orange)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BrenoMoura00&layout=donut)](https://github.com/BrenoMoura00/github-readme-stats)
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=BrenoMoura00&bg_color=171616&color=ffffff&line=ff6200&point=ff6200&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
