@@ -8,7 +8,7 @@
 
 - 🌱 I am a back-end programming student
 - 📫 Contact me at email: brenoluisadv@gmail.com
-- ✉️ Linkedin: https://www.linkedin.com/in/breno-moura-a3b3502a8/
+- ✉️ Linkedin: https://www.linkedin.com/in/breno-moura-silva/
 - 👀 Fun fact about me: I know how to edit in Photoshop
 
 ## Status:
