@@ -1,6 +1,10 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff6200&height=120&section=header"/>
+div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff6200&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name's+Breno+Moura;I'm+20+years+old;I'm+from+Brazil;I'm+Student+Information+system;Be+Welcome!+:%29)](https://git.io/typing-svg)
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:050505,50:6d28d9,100:a855f7&text=BRENO%20MOURA&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=2500&pause=800&color=C084FC&center=true&vCenter=true&width=900&lines=SYSTEM+BOOTING...;FULL+STACK+DEVELOPER;REACT+%7C+JAVA+%7C+PYTHON;AI+%7C+SOFTWARE+ENGINEERING;WELCOME+TO+MY+CODE+UNIVERSE"/>
+
+</div>
 
 
 ### Hello my name is Breno Luis!
