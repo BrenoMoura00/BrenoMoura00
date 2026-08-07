@@ -1,26 +1,77 @@
-div align="center">
+<div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:050505,50:6d28d9,100:a855f7&text=BRENO%20MOURA&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:050505,50:06818c,100:07e89d&text=BRENO%20MOURA&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=2500&pause=800&color=C084FC&center=true&vCenter=true&width=900&lines=SYSTEM+BOOTING...;FULL+STACK+DEVELOPER;REACT+%7C+JAVA+%7C+PYTHON;AI+%7C+SOFTWARE+ENGINEERING;WELCOME+TO+MY+CODE+UNIVERSE"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=2500&pause=800&color=07e89d&center=true&vCenter=true&width=900&lines=SYSTEM+BOOTING...;STACK+DEVELOPER;REACT+%7C+JAVA+%7C+FLUTTER;SOFTWARE+ENGINEERIN;WELCOME+TO+MY+CODE+GITHUB!"/>
 
 </div>
 
 
-### Hello my name is Breno Luis!
+## 👨‍💻 About Me
 
+```javascript
+const Breno = {
 
-- 🌱 I am a back-end programming student
-- 📫 Contact me at email: brenoluisadv@gmail.com
-- ✉️ Linkedin: https://www.linkedin.com/in/breno-moura-silva/
-- 👀 Fun fact about me: I know how to edit in Photoshop
+ name: "Breno Moura",
+
+ role: "Full Stack Developer",
+
+ location: "Pernambuco, Brazil 🇧🇷",
+
+ stack: {
+    frontend: [
+      "React",
+      "JavaScript",
+      "TypeScript",
+      "Angular",
+      "HTML",
+      "CSS"
+    ],
+
+    backend: [
+      "Java",
+      "Node.js",
+      "PHP",
+      "C#"
+    ],
+
+    database: [
+      "MySQL",
+      "PostgreSQL"
+    ]
+ },
+
+ tools: [
+   "Git",
+   "GitHub",
+   "Docker",
+   "Figma"
+   
+ ],
+
+ passion:
+ "Developing solutions 🚀"
+
+}
+```
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,docker,cs,dotnet,java,ts,js,flutter,mysql,postgres" />
+  </a>
+</p>
 
 ## Status:
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BrenoMoura00&theme=dark&show_icons=true&theme=shadow_blue)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BrenoMoura00&layout=donut)](https://github.com/BrenoMoura00/github-readme-stats)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=BrenoMoura00&bg_color=011a1c&color=ffffff&line=07e89d&point=07e89d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=BrenoMoura00&bg_color=171616&color=ffffff&line=ff6200&point=ff6200&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+---
 
+<div align="center">
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff6200&height=120&section=footer"/>
+### "Turning code into solutions."
+
+<img src="https://komarev.com/ghpvc/?username=BrenoMoura00&style=for-the-badge&color=07e89d"/>
+
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=0:050505,50:06818c,100:07e89d"/>
